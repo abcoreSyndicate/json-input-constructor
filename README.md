@@ -137,10 +137,6 @@ document.getElementById('jsonInputval1').addEventListener('change', (e) => {
 }
 ```
 
-## Демо
-
-Откройте `examples/index.html` в браузере для просмотра примеров.
-
 ## Лицензия
 
 MIT License - Abral syndicate
