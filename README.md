@@ -6,11 +6,6 @@ Bootstrap 5 динамический конструктор JSON форм.
 
 ## Установка
 
-### CDN
-```html
-<script src="https://cdn.jsdelivr.net/gh/AbraISyndicate/ab-json-input@latest/src/ab_json_input.js"></script>
-```
-
 ### Локально
 Скачайте `src/ab_json_input.js` и подключите в проект:
 ```html
