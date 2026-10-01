@@ -180,7 +180,7 @@ class AB_JSON_INPUT {
         }
 
         // Реактивное сохранение при изменении
-        input.addEventListener('input', () => {
+        input.addEventListener('change', () => {
             this._updateField(rowIndex, field.name, input.value);
         });
 
